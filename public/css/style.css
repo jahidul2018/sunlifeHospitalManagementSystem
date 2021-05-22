@@ -1,0 +1,19 @@
+.timec{
+    height: 35px;
+    width: 220px;
+    border-radius: 5px;
+    
+}
+.timec:hover{
+    border-color: aqua;
+}
+
+.pclass{
+    height: 35px;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.pclass:hover{
+    border: 3px solid rgb(1, 54, 54);
+}
